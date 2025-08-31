@@ -36,7 +36,7 @@ cd trilha-javascript-dio-lab-portfolio
 
 ## Prévia Visual
 
-![Preview da Página](assets/images/preview-dev-portfolio.png)
+![Preview da Página](assets/images/preview-dev-portfolio.PNG)
 
 Link deploy: [https://trilha-css-desafio-03-discord-respo.vercel.app/](https://trilha-javascript-dio-lab-portfolio.vercel.app/)
 
