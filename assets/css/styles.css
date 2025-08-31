@@ -2,32 +2,33 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;400&display=swap');
 
 :root, :root[data-theme='dark'] {
-  --primary-color: #F0F0F0;
+  --primary-color: #FFF3E2; /* tom bege pastel */
+  
+  --primary-bg-color: #4B3F37; /* marrom escuro suave */
+  --secondary-bg-color: #7D5A50; /* marrom claro */
+  --primary-border-color: #A77968; /* marrom médio */
+  --secondary-border-color: #D8A48F; /* laranja/marrom suave */
 
-  --primary-bg-color: #111217;
-  --secondary-bg-color: #28292E;
-  --primary-border-color: #28292E;
-	--secondary-border-color: #56575A;
-
-  --title-color: #F0F0F0;
-  --text-color: #9A9A9C;
-  --link-color: #9A9A9C;
-  --icon-color: #C7C8C9;
+  --title-color: #FFD6A5; /* laranja pastel */
+  --text-color: #FDEEDC;  /* bege clarinho */
+  --link-color: #F9C49A;  /* laranja mais vivo */
+  --icon-color: #E38B29;  /* laranja queimado */
 }
 
 :root[data-theme='light'] {
-  --primary-color: #0B0B0F;
+  --primary-color: #4B3F37; /* marrom escuro */
+  
+  --primary-bg-color: #FFF8F0; /* fundo bege pastel */
+  --secondary-bg-color: #F9E0BB; /* laranja bem clarinho */
+  --primary-border-color: #F6C28B; /* laranja pastel médio */
+  --secondary-border-color: #E6A57E; /* laranja queimado suave */
 
-	--primary-bg-color: #E9E9E9;
-	--secondary-bg-color: #C7C8C9;
-	--primary-border-color: #C7C8C9;
-	--secondary-border-color: #9A9A9C;
-
-	--title-color: #0B0B0F;
-	--text-color: #28292E;
-	--link-color: #28292E;
-	--icon-color: #56575A;
+  --title-color: #A75D5D; /* marrom avermelhado */
+  --text-color: #7B4B3A;  /* marrom suave */
+  --link-color: #E38B29;  /* laranja queimado */
+  --icon-color: #A75D5D;  /* marrom avermelhado */
 }
+
 
 html[data-theme='light'] .brand__logo {
   filter: invert(1);
