@@ -43,6 +43,7 @@ Link deploy: [https://trilha-css-desafio-03-discord-respo.vercel.app/](https://t
 ## Créditos
 Projeto adaptado no Bootcamp Santander 2025 - Front End (DIO)
 
+------------------------
 
 # Portfolio Front-end
 
